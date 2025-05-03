@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fazaira Bakery</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Fazaira Bakery</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#menu">Menu</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section id="about">
+            <h2>About Us</h2>
+            <p>Fazaira Bakery is dedicated to providing the freshest and most delicious baked goods.</p>
+        </section>
+        
+        <section id="menu">
+            <h2>Our Menu</h2>
+            <p>Explore our wide range of pastries, breads, and cakes.</p>
+        </section>
+        
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>Get in touch with us for orders and inquiries.</p>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2023 Fazaira Bakery. All rights reserved.</p>
+    </footer>
+    
+    <script src="assets/js/scripts.js"></script>
+</body>
+</html>
